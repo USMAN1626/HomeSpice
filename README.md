@@ -8,9 +8,11 @@ https://github.com/user-attachments/assets/f60fb817-f720-474c-9f09-57575f7ac24b
 
 
 Backend screenshots :
-<img width="500" alt="Mongo 1" src="https://github.com/user-attachments/assets/40c4efac-4590-42a7-9765-a003f7862a64" />
 
-<img width="1100" alt="Mongo 2" src="https://github.com/user-attachments/assets/f2a98338-f07e-499f-b98c-0e7d51f4ab26" />
+
+<img width="600" alt="Mongo 1" src="https://github.com/user-attachments/assets/40c4efac-4590-42a7-9765-a003f7862a64" />
+
+<img width="600" alt="Mongo 2" src="https://github.com/user-attachments/assets/f2a98338-f07e-499f-b98c-0e7d51f4ab26" />
 
 
 
@@ -40,57 +42,9 @@ This is a full-stack web application that displays a weekly menu. It uses a **Re
 ---
 
 ## 📂 Project Structure
-usmans-cook/
-│
-├── backend/
-│   ├── dockerfile
-│   ├── package.json
-│   ├── package-lock.json
-│   ├── seed.js
-│   ├── server.js
-│   ├── models/
-│   │   ├── MenuItem.js
-│   │   └── Order.js
-│   ├── routes/
-│   │   ├── menu.js
-│   │   └── orders.js
-│   └── data/
-│
-├── frontend/
-│   ├── dockerfile
-│   ├── package.json
-│   ├── package-lock.json
-│   ├── vite.config.js
-│   ├── index.html
-│   ├── src/
-│   │   ├── App.jsx
-│   │   ├── App.css
-│   │   ├── main.jsx
-│   │   ├── pages/
-│   │   │   ├── Home.jsx
-│   │   │   ├── CheckoutPage.jsx
-│   │   │   └── OrdersPage.jsx
-│   │   ├── components/
-│   │   │   ├── FoodItem.jsx
-│   │   │   └── FoodList.jsx
-│   │   ├── services/
-│   │   │   └── api.js
-│   │   ├── utils/
-│   │   │   ├── timeValidator.js
-│   │   │   └── calculateTotal.js
-│   │   ├── config/
-│   │   │   └── config.js
-│   │   └── assets/
-│   └── public/
-│       ├── vite.svg
-│       └── assets/
-│           ├── biryani.jpg
-│           ├── kheer.png
-│           └── paratha.jpeg
-│
-├── docker-compose.yml
-└── README.md
 
+
+<img width="302" alt="Screenshot 2025-06-13 at 1 25 29 AM" src="https://github.com/user-attachments/assets/552da163-f839-41f8-8d11-6b3d6045424d" />
 
 
 🔧 Getting Started
