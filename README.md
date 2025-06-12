@@ -8,12 +8,11 @@ https://github.com/user-attachments/assets/f60fb817-f720-474c-9f09-57575f7ac24b
 
 
 Backend screenshots :
-<img width="1429" alt="Mongo 1" src="https://github.com/user-attachments/assets/40c4efac-4590-42a7-9765-a003f7862a64" />
+<img width="1429" alt="Mongo 1" src="https://github.com/user-attachments/assets/40c4efac-4590-42a7-9765-a003f7862a64"  width =100/>
 
 <img width="1429" alt="Mongo 2" src="https://github.com/user-attachments/assets/f2a98338-f07e-499f-b98c-0e7d51f4ab26" />
 
 
-https://github.com/user-attachments/assets/5b7c815a-bbe9-44a5-8996-2991dcb90484
 
 
 
