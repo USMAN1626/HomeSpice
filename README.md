@@ -2,6 +2,11 @@
 
 => Output video
 
+
+https://github.com/user-attachments/assets/f60fb817-f720-474c-9f09-57575f7ac24b
+
+
+
 Backend screenshots :
 <img width="1429" alt="Mongo 1" src="https://github.com/user-attachments/assets/40c4efac-4590-42a7-9765-a003f7862a64" />
 
